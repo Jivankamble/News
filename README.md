@@ -2,5 +2,5 @@
 <br>
  This is NewsWebsite Repository 
  <br>
-Author - Jivan Kamble
+Author - Jivan Mohan Kamble
  
